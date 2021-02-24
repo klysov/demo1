@@ -1,0 +1,3 @@
+2021-02-24 01:01:47 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BILLIONAIRE" not found; SQL statement:
+select billionair0_.id as id1_0_, billionair0_.career as career2_0_, billionair0_.first_name as first_na3_0_, billionair0_.last_name as last_nam4_0_ from billionaire billionair0_ [42102-200]
