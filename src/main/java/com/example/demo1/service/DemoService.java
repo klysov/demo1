@@ -8,4 +8,6 @@ public interface DemoService {
 
     List<BillionaireDto> getSomething();
 
+    BillionaireDto saveSomething(BillionaireDto billionaireDto);
+
 }
