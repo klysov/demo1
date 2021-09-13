@@ -1,0 +1,6 @@
+version: '3.1'
+services:
+  demo1:
+    image: demo1:latest
+    ports:
+      - "8080:8080"
