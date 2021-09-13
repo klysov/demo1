@@ -7,7 +7,6 @@ import com.example.demo1.repository.BillionairesRepository;
 import com.example.demo1.service.DemoService;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
-import org.apache.logging.log4j.Logger;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
